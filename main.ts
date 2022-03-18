@@ -11,3 +11,5 @@ let kisi = {
 
 
 console.log(typeof(kisi));
+
+basic.showString(ad);
